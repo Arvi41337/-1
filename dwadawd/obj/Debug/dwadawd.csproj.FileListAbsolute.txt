@@ -1,0 +1,10 @@
+C:\Users\29423801\source\repos\dwadawd\dwadawd\bin\Debug\dwadawd.exe.config
+C:\Users\29423801\source\repos\dwadawd\dwadawd\bin\Debug\dwadawd.exe
+C:\Users\29423801\source\repos\dwadawd\dwadawd\bin\Debug\dwadawd.pdb
+C:\Users\29423801\source\repos\dwadawd\dwadawd\obj\Debug\dwadawd.csprojAssemblyReference.cache
+C:\Users\29423801\source\repos\dwadawd\dwadawd\obj\Debug\dwadawd.Form1.resources
+C:\Users\29423801\source\repos\dwadawd\dwadawd\obj\Debug\dwadawd.Properties.Resources.resources
+C:\Users\29423801\source\repos\dwadawd\dwadawd\obj\Debug\dwadawd.csproj.GenerateResource.cache
+C:\Users\29423801\source\repos\dwadawd\dwadawd\obj\Debug\dwadawd.csproj.CoreCompileInputs.cache
+C:\Users\29423801\source\repos\dwadawd\dwadawd\obj\Debug\dwadawd.exe
+C:\Users\29423801\source\repos\dwadawd\dwadawd\obj\Debug\dwadawd.pdb
